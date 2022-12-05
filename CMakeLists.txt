@@ -3,4 +3,4 @@ project(book_cinema_cpp)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(book_cinema_cpp bookcinema_beta.cpp pageDisplayer.h)
+add_executable(Book-Cinema bookcinema_beta.cpp pageDisplayer.h)
